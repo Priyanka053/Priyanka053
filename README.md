@@ -1,5 +1,9 @@
+**About Me:**
+
 👋 Hello, I am Priyanka, Welcome to my profile.
 I'm a passionate Software Engineer with 1+ years of hands-on experience in crafting and implementing robust data solutions. My goal is to leverage the power of data to drive meaningful insights and solve complex business challenges.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **💡 Expertise:**
 
@@ -12,6 +16,7 @@ Throughout my journey as a Software Engineer, I've refined my skills in:
 🔹 Python Basics: I have a foundational understanding of Python, using it for data analysis and simple scripting tasks.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 **⚒️ Skills:**
 
 🧑‍💻 Programming Languages:
