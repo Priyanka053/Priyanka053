@@ -12,6 +12,7 @@ Throughout my journey as a Software Engineer, I've refined my skills in:
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ⚒️ Skills:
+
 🧑‍💻 Programming Languages:
 Python | SQL 
 
