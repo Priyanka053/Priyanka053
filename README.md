@@ -32,7 +32,7 @@ Git
 Synapse
 
 📊 Data Visualization:
-PowerBi
+Power BI
 
 📋 Project Management:
 Jira | Scrum
