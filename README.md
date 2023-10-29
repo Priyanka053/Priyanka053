@@ -23,7 +23,7 @@ Throughout my journey as a Software Engineer, I've refined my skills in:
 Python | SQL 
 
 💾 Databases:
-MySQL 
+MySQL | MongoDB
 
 🧬 Version Control:
 Git
