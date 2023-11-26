@@ -29,7 +29,7 @@ MySQL | MongoDB
 Git
 
 ☁️ Azure Services:
-Synapse
+Synapse | ADX
 
 📊 Data Visualization:
 Power BI
