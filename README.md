@@ -1,13 +1,13 @@
 **About Me:**
 
 👋 Hello, I am Priyanka, Welcome to my profile.
-I'm a passionate Software Engineer with 1+ years of hands-on experience in crafting and implementing robust data solutions. My goal is to leverage the power of data to drive meaningful insights and solve complex business challenges.
+I'm a passionate UAT Validator with 1+ years of hands-on experience in crafting and implementing robust data solutions. My goal is to leverage the power of data to drive meaningful insights and solve complex business challenges.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **💡 Expertise:**
 
-Throughout my journey as a Software Engineer, I've refined my skills in:
+Throughout my journey as a UAT Validator, I've refined my skills in:
 
 🔹 SQL Mastery: I excel in SQL, enabling me to construct complex queries, optimize database performance, and ensure data integrity.
 
