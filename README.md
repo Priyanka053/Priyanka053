@@ -1,32 +1,42 @@
 **About Me:**
 
 👋 Hello, I am Priyanka, Welcome to my profile.
-I'm a passionate Software Engineer with 4+ years of hands-on experience in crafting and implementing robust data solutions. My goal is to leverage the power of data to drive meaningful insights and solve complex business challenges.
+I'm a passionate Software Engineer in testing with extensive experience in end-to-end testing across diverse platforms including Android, iOS, and Web applications. 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **💡 Expertise:**
 
-Throughout my journey as a UAT Software Engineer, I've refined my skills in:
+Throughout my journey as a Software Test Engineer, I've refined my skills in:
 
 🔹 SQL Mastery: I excel in SQL, enabling me to construct complex queries, optimize database performance, and ensure data integrity.
 
-🔹 Data Visualization Wizardry: My ability to transform data insights into visual stories is noteworthy. I'm adept at using tools like Power BI to craft intuitive dashboards and reports.
+🔹 Python Scripting: I am experienced in developing and maintaining automated Python test scripts to streamline testing processes.
 
-🔹 Python Basics: I have a foundational understanding of Python, using it for data analysis and simple scripting tasks.
+🔹API Testing: I am skilled in API testing using Postman and adept at preparing and managing test data and environments.
+
+🔹Database Testing: I am proficient in executing thorough database testing to ensure data integrity and reliability.
+
+🔹Dashboard Testing: I am experienced in meticulous dashboard testing for accurate data visualization.
+
+🔹UI Automation: I have experience in Web UI Automation using Selenium.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **⚒️ Skills:**
 
+🛠️ Software Testing:
+💻 Web UI - Selenium 
+🚀 API - Postman
+
 🧑‍💻 Programming Languages:
 Python | SQL 
 
 💾 Databases:
-MySQL | MongoDB
+Azure Data Lake | MongoDB
 
 🧬 Version Control:
-Git
+Github
 
 ☁️ Azure Services:
 Synapse | ADX
@@ -36,5 +46,3 @@ Power BI
 
 📋 Project Management:
 Jira | Scrum
-
-
